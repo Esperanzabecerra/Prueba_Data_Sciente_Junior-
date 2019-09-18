@@ -27,4 +27,15 @@ Ejemplo: Industria DEF viaja desde Bogotá hacia Medellín e Industria UVW viaja
 3. Opción híbrida: se puede dar el caso de una estrategia híbrida donde dos empresas consolidan en el trayecto de ida y otra empresa retorna en compensación o viceversa. 
  
 Ejemplos: Industria ABC y DEF viajan desde Bogotá hacia Medellín juntas e Industria UVW emplea el mismo vehículo para regresar desde Envigado hacia Chía. 
- 
+
+Tenga en cuenta que para generar una oportunidad se debe validar lo siguiente: 
+1. Los productos deben ser compatibles entre sí. 
+2. Las fechas de salida planeadas no deben tener diferencia mayor a 3 días. 
+3. En cada trayecto los camiones deben tener una ocupación mínima de 70%, ya sea en peso o volumen.
+
+
+
+
+
+
+
